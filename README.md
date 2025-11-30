@@ -1,5 +1,10 @@
 # Windows proof-of-concept keylogger
 
+### Hashes
+* MD5: cf7602dc9ba2279e6b857bcfbf88152f 
+* SHA-1: b7679f1f8b1b402ecf9d3e589afe84d7c9b6ac54 
+* SHA-256: 2f31ba0bbbbd328f91326c1ebfde805546a1773df4f938a2bf8e895a21550967
+
 ### **Introduction**
 Please note that this project was for educational purposes and should be tested/executed in a secure environment ONLY.   
 
